@@ -8,6 +8,6 @@ To remove a query click the x button next to the entry.
 
 # Getting the hostname
 If you don't know what the name of the network computer is do the following:
-1. Open up the command prompt (cmd.exe)
+1. On the computer in question open up the command prompt (cmd.exe)
 2. Type in 'hostname' and hit enter
 3. The output of the command is the network name for the computer
