@@ -2,8 +2,10 @@
 Python tool to monitor active logins on network computers
 
 # Usage
-The tool will query user logins on network computers every 10 seconds (change QUERY_FREQ as needed to modify this timing)
+The tool will query user logins on network computers every 10 seconds (change QUERY_FREQ as needed to modify this timing).
+
 To add a query simply select "New Query" and input the name of the network computer to check login status.
+
 To remove a query click the x button next to the entry.
 
 # Getting the hostname
